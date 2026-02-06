@@ -1,6 +1,12 @@
-# 💫 About Me:
-I'm currently working on Interdisciplinary engineering methods <br>where i merge both electrical engineering concepts and AI together<br>making it more reliable and resolves problem faced by the industries.<br><br>I'm currently pursuing my B.E. degree in Electrical and Electronics Engineering <br><br>I'm also a tech enthusiast looking for collaboration in any of the field or <br>both combined 
-
+- 👋 Hi, I’m @JeevanDP
+- 👀 I’m interested in coding and softwares...
+- 🌱 I’m currently learning python and c++...
+- 💞️ I’m looking to collaborate with the peoples who are intrested in this field...
+- 📫 i have a linkedin profile:https://www.linkedin.com/in/jeevan-d-p-372856327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtCfJ0O47Se%2BykHMQydbAIQ%3D%3D
+-    mail : jeevandp85@gmail.com
+-    twitter (x) : @JEEVANDP2006F  
+- 😄 Pronouns: BASICALLY...
+- ⚡ Fun fact: "Just kidding"
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeevandp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeevan-dp-372856327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeevandp85@gmail.com) 
